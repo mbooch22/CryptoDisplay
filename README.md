@@ -31,7 +31,4 @@ See ino file for pin setup and other instructions
    "timestamp":1618602367803
 }
 
-[Image of Display](https://github.com/mbooch22/CryptoDisplay/blob/main/image0.jpeg?raw=true)
-
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[Image of Display](https://github.com/mbooch22/CryptoDisplay/blob/main/image0.jpeg)
